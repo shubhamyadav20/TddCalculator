@@ -1,0 +1,6 @@
+C:\Shubham_training\Web API\TddCalApp\TddCalApp.Library\bin\Debug\TddCalApp.Library.dll
+C:\Shubham_training\Web API\TddCalApp\TddCalApp.Library\bin\Debug\TddCalApp.Library.pdb
+C:\Shubham_training\Web API\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.csprojAssemblyReference.cache
+C:\Shubham_training\Web API\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.csproj.CoreCompileInputs.cache
+C:\Shubham_training\Web API\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.dll
+C:\Shubham_training\Web API\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.pdb
